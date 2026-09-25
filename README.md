@@ -4,9 +4,9 @@ An automated timetable generator designed to schedule courses, instructors, and 
 
 ## Features
 
-- Conflict Detection: Prevents room double-booking, instructor overlaps, and student section clashes.
-- Configurable Constraints: Supports time slots, working days, instructor availability, and room capacities.
-- Export Formats: Generates human-readable schedules (exportable to CSV / PDF / JSON).
+- **Conflict Detection:** Prevents room double-booking, instructor overlaps, and student section clashes.
+- **Configurable Constraints:** Supports time slots, working days, instructor availability, and room capacities.
+- **Export Formats:** Generates human-readable schedules (exportable to CSV / PDF / JSON).
 
 ## Project Structure
 
