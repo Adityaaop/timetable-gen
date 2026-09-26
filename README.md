@@ -1,4 +1,4 @@
-# timetable-gen
+# timetable-generator
 
 An automated timetable generator designed to schedule courses, instructors, and classrooms while resolving scheduling conflicts and constraints.
 
